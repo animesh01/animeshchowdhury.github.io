@@ -1,0 +1,21 @@
+---
+title: "Projects"
+---
+
+Some of my portfolio projects are as follows:
+
+# [Exploratory Data Analysis in R](http://rpubs.com/Animesh01/390135)
+
+- An RMarkdown presentation wherein I try to analyze factors which affect quality of red wine.
+
+# [Inferential Statistics in R](http://rpubs.com/Animesh01/391370)
+
+- An RMarkdown presentation wherein we analyze stroop effect.
+
+# [Exploratory Data Analysis in Python](https://github.com/animesh01/Analysis-On-Quality-of-White-Wine-/blob/master/Analysis%20on%20White%20Wine%20Quality.ipynb)
+
+- A python notebook wherein i try to analyze factors which affect the quality of white wine.
+
+# [Baseball Player Analysis in Tableau](https://public.tableau.com/profile/animesh.chowdhury#!/vizhome/BaseballPlayerAnalysis/Introduction)
+
+- A tableau project analyzing metrics which affect the performance of baseball players.

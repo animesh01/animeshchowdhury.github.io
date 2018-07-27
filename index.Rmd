@@ -1,0 +1,13 @@
+---
+title: "Animesh's Website"
+---
+
+Hi welcome to my website navigate through different tabs to know more about me !!
+
+The website has been developed using R Markdown.
+
+![](Data Viz.jpg)
+
+- [LinkedIn Profile](https://www.linkedin.com/in/animeshchowdhury/) 
+- [GitHub](https://github.com/animesh01) 
+- [Twitter](https://twitter.com/anicmaniac)

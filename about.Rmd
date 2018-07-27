@@ -1,0 +1,11 @@
+---
+title: "About Me"
+---
+
+- __Name:__ Animesh Chowdhury
+- __Ocupation:__ "Data Science Professional"
+- __Hobbies:__ Building innovative products for large scale businesses. 
+
+![](Website_Ani.jpg)
+
+I am a data science specialist working for Deloitte having keen interest in analytics and visualization.
